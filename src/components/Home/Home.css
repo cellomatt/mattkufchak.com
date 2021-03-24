@@ -1,0 +1,14 @@
+.home__image {
+  width: 100%;
+  object-fit: cover;
+  max-height: 500px;
+}
+
+.title_main {
+  padding: 1em;
+  box-sizing: border-box;
+  font-size: 5em;
+  text-decoration: underline;
+  text-underline-offset: 5px;
+  text-decoration-thickness: 9px;
+}
